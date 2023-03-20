@@ -2,7 +2,7 @@
 
 
 
-    Aprenda a utilizar os principais métodos de array do JavaScript
+    Aprender a utilizar os principais métodos de array do JavaScript
     aplicando função em todos os elementos da lista com forEach
     Manipulação dos valores criando uma nova lista com map de forma prática
     Descubrindo como aplicar ordenação e filtros em seus projetos JavaScript
@@ -10,7 +10,7 @@
 
 
 
-| :placard: Vitrine.Dev |     |
+| :placard: AluraBook |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Book**
 | :label: Tecnologias | javascript, html, css 
@@ -18,11 +18,11 @@
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-metodos-array
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/fabricioalvess/AluraBooks/blob/main/imagens/alurabook.png?raw=true#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
 Neste projetos aprendi sobre as diferenças entre os metodos de array 
 forEach, reduce, map, filter
 em quais momentos utilizar cada um deles.
